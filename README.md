@@ -5,16 +5,7 @@ manterem hábitos saudáveis de hidratação. Com base no peso corporal e nível
 de atividade física, o app calcula a meta ideal de ingestão de água e
 monitora quanto ainda falta para atingir o objetivo do dia.
 ---
-## Interface do Aplicativo
 
-*Adicione aqui os prints da sua interface*
-&lt;div align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://via.placeholder.com/200x400.png?text=Home+HydroGoal&quot;
-width=&quot;200&quot;&gt;
-&lt;img src=&quot;https://via.placeholder.com/200x400.png?text=Resultado+Meta&quot;
-width=&quot;200&quot;&gt;
-&lt;/div&gt;
----
 ## Regras de Negócio
 1. **Consumo Base:** 35ml de água para cada kg de peso corporal.
 2. **Adicional por Atividade:**
